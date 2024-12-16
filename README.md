@@ -1,6 +1,6 @@
 Name : Joel
 company: CODTECH IT SOLUTION
-dOMAIN : JAVA
+Domain : JAVA
 Duration : November 25 to january 10
 Mentor : Neela Santhosh Kumar
 
